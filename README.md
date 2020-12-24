@@ -8,6 +8,6 @@ docker run \
 
 # To execute:
 
-sudo su
-chmod +x docker.sh
-./docker.sh
+sudo su \
+chmod +x docker.sh \
+./docker.sh \
