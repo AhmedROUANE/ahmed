@@ -6,7 +6,8 @@ docker run \
   -v /guacamole:/config \
   oznu/guacamole
 
-#To execute:
+# To execute:
+
 sudo su
 chmod +x docker.sh
 ./docker.sh
