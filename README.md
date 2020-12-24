@@ -1,4 +1,4 @@
-# Ahmed
+# Author @Ahmed
 Mon shell pour docker guacamole.
 
 docker run \
@@ -7,6 +7,7 @@ docker run \
   oznu/guacamole 
 
 ------ To execute the bash ------
+
 sudo su \
 chmod +x docker.sh \
 ./docker.sh
